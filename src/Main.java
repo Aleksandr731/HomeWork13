@@ -13,5 +13,7 @@ public class Main {
         Author author = new Author("Лев", "Толстой");
 
         System.out.println(warAndPeace.equals(warAndPeace));
+        System.out.println(tolstoy.equals(tolstoy));
+
     }
 }
